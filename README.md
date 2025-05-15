@@ -7,7 +7,7 @@ React, JavaScript, MongoDB, Tailwind CSS, Express JS
 ## Some Glimpse 🤩 :
 <table>
  <tr>
-  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747299180/zote4i2qvvfvmjbizvzr.png" width="500"></td>
+  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317519/Github%20Project/yvpxgytwgedjh3dl6it0.png" width="500"></td>
   <!-- <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747293525/nalenbpupbhhfldrkn2w.png" width="500"></td> -->
  </tr>
 </table>
