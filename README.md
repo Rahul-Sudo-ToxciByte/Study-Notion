@@ -2,7 +2,7 @@
 Let's remove the barrier of traditional learning with a smart edutech platform.
  
 ## 📌 Tech Stack
-React, JavaScript, MongoDB, Tailwind CSS 
+React, JavaScript, MongoDB, Tailwind CSS, Express JS
 
 ## Some Glimpse 🤩 :
 <table>
